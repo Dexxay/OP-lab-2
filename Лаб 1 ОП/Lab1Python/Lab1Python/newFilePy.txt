@@ -1,0 +1,21 @@
+Morbi laoreet turpis venenatis pulvinar dapibus -=Word with minimum length is : "Morbi" and it's length is : 5=-
+Integer malesuada hendrerit tristique -=Word with minimum length is : "Integer" and it's length is : 7=-
+In sollicitudin mattis arcu et porttitor -=Word with minimum length is : "In" and it's length is : 2=-
+Vivamus justo turpis, vulputate vitae tellus sit amet, gravida efficitur augue -=Word with minimum length is : "sit" and it's length is : 3=-
+Integer auctor sapien nec mattis vulputate -=Word with minimum length is : "nec" and it's length is : 3=-
+Donec nisl magna, faucibus vitae congue facilisis, volutpat at nisi -=Word with minimum length is : "at" and it's length is : 2=-
+Vivamus laoreet facilisis est, a dignissim tortor mattis ac -=Word with minimum length is : "a" and it's length is : 1=-
+In euismod blandit eros sit amet ornare -=Word with minimum length is : "In" and it's length is : 2=-
+Fusce pulvinar massa ac arcu dictum, id convallis purus volutpat -=Word with minimum length is : "ac" and it's length is : 2=-
+Sed dignissim dui m -=Word with minimum length is : "m" and it's length is : 1=-
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit -=Word with minimum length is : "sit" and it's length is : 3=-
+Praesent sed interdum sem, sit amet cursus leo -=Word with minimum length is : "sed" and it's length is : 3=-
+Maecenas dictum lectus lacus, mattis lobortis sem sollicitudin ut -=Word with minimum length is : "ut" and it's length is : 2=-
+Integer pulvinar, risus et scelerisque volutpat, nulla odio elementum leo, volutpat venenatis justo ante vitae nibh -=Word with minimum length is : "et" and it's length is : 2=-
+Etiam maximus ligula eros, eu ultricies risus tempor in -=Word with minimum length is : "eu" and it's length is : 2=-
+Aliquam vel tellus lectus -=Word with minimum length is : "vel" and it's length is : 3=-
+Ut sem mauris, laoreet ac viverra non, ultricies eu velit -=Word with minimum length is : "Ut" and it's length is : 2=-
+Proin vehicula blandit augue et finibus -=Word with minimum length is : "et" and it's length is : 2=-
+Praesent lacinia at orci eget pretium -=Word with minimum length is : "at" and it's length is : 2=-
