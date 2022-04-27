@@ -112,8 +112,9 @@ def get_night_and_day_duration(start_t, end_t):
         duration_day = 0
     elif start_t < end_t < day_time:
         duration_night = end_t - start_t
-    elif (start_t < day_time) & (day_time < end_t < night_time):
+    elif (start_t < day_time) & (day_time <= end_t < night_time):
         duration_night = day_time - start_t
+        duration_day = end_t - day_time
     elif (start_t < day_time) & (end_t >= night_time):
         duration_night = day_time - start_t + end_t - night_time
         duration_day = night_time - day_time
