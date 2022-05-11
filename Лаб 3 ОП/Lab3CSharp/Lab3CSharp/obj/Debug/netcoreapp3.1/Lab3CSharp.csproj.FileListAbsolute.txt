@@ -1,0 +1,14 @@
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\bin\Debug\netcoreapp3.1\Lab3CSharp.exe
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\bin\Debug\netcoreapp3.1\Lab3CSharp.deps.json
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\bin\Debug\netcoreapp3.1\Lab3CSharp.runtimeconfig.json
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\bin\Debug\netcoreapp3.1\Lab3CSharp.runtimeconfig.dev.json
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\bin\Debug\netcoreapp3.1\Lab3CSharp.dll
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\bin\Debug\netcoreapp3.1\Lab3CSharp.pdb
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\obj\Debug\netcoreapp3.1\Lab3CSharp.csproj.AssemblyReference.cache
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\obj\Debug\netcoreapp3.1\Lab3CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\obj\Debug\netcoreapp3.1\Lab3CSharp.AssemblyInfoInputs.cache
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\obj\Debug\netcoreapp3.1\Lab3CSharp.AssemblyInfo.cs
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\obj\Debug\netcoreapp3.1\Lab3CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\obj\Debug\netcoreapp3.1\Lab3CSharp.dll
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\obj\Debug\netcoreapp3.1\Lab3CSharp.pdb
+C:\Users\Jimbo\Desktop\Lab3CSharp\Lab3CSharp\obj\Debug\netcoreapp3.1\Lab3CSharp.genruntimeconfig.cache
