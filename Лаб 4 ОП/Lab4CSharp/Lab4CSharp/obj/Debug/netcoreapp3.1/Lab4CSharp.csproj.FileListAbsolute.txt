@@ -1,0 +1,28 @@
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\bin\Debug\netcoreapp3.1\Lab4CSharp.exe
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\bin\Debug\netcoreapp3.1\Lab4CSharp.deps.json
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\bin\Debug\netcoreapp3.1\Lab4CSharp.runtimeconfig.json
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\bin\Debug\netcoreapp3.1\Lab4CSharp.runtimeconfig.dev.json
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\bin\Debug\netcoreapp3.1\Lab4CSharp.dll
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\bin\Debug\netcoreapp3.1\Lab4CSharp.pdb
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.csproj.AssemblyReference.cache
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.AssemblyInfoInputs.cache
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.AssemblyInfo.cs
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.dll
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.pdb
+C:\Users\Jimbo\Desktop\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.genruntimeconfig.cache
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\bin\Debug\netcoreapp3.1\Lab4CSharp.exe
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\bin\Debug\netcoreapp3.1\Lab4CSharp.deps.json
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\bin\Debug\netcoreapp3.1\Lab4CSharp.runtimeconfig.json
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\bin\Debug\netcoreapp3.1\Lab4CSharp.runtimeconfig.dev.json
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\bin\Debug\netcoreapp3.1\Lab4CSharp.dll
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\bin\Debug\netcoreapp3.1\Lab4CSharp.pdb
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.csproj.AssemblyReference.cache
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.AssemblyInfoInputs.cache
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.AssemblyInfo.cs
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.dll
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.pdb
+C:\Users\Jimbo\Desktop\Лаб 4 ОП\Lab4CSharp\Lab4CSharp\obj\Debug\netcoreapp3.1\Lab4CSharp.genruntimeconfig.cache
